@@ -1,0 +1,54 @@
+# Keyroアカデミー
+
+### 書くを、もっと軽く。
+
+日本語入力のちょっとしたコツから、AIの新しい動き、毎日の仕事術まで。
+KeyroIMEと一緒に、「書く仕事」を軽くするヒントをお届けします。
+
+[📥 KeyroIMEをダウンロード](https://github.com/keyro-jp/KeyroIME-Releases/releases)　·　[𝕏 フォローする](https://x.com/KeyroIME)　·　[💬 感想・質問を送る](https://github.com/keyro-jp/keyro-academy/issues/new/choose)
+
+## 4つのチャンネル
+
+| チャンネル | こんなときに |
+| --- | --- |
+| [⌨️ 機能ガイド](channels/features/README.md) | KeyroIMEでできることを、具体例から知りたい |
+| [📖 使い方](channels/help/README.md) | 操作を覚えたい。困ったところを解決したい |
+| [🔬 AI最前線](channels/ai/README.md) | 新しいAI技術を、自分の仕事に引き寄せて考えたい |
+| [💡 仕事術](channels/work/README.md) | 書く・調べる・整えるを、少し効率よくしたい |
+
+## まず読んでほしい記事
+
+### ⌨️ [OpenCore・Pro・AI Proの違い](content/keyro-editions/article.md)
+
+いま使える機能と、これからの計画。KeyroIMEの3つの版を整理します。
+
+### 📖 [単語登録で、いつもの言葉をすぐに](content/pro-wordbook/article.md)
+
+よく使う製品名や表記を、読みから呼び出す。最初は3語から始めましょう。
+
+### 🔬 [ローカルAIを選ぶ前に、確かめたい5つのこと](content/local-ai-checklist/article.md)
+
+日本語の品質、待ち時間、メモリー。モデル名だけでは分からない確認ポイント。
+
+### 💡 [入力の時短は、同じ文章で測ってみる](content/input-workflow/article.md)
+
+「なんとなく速い」を、完成時間・切替・修正の記録で確かめる方法です。
+
+### ⌨️ [絵文字・顔文字・記号を、読みから呼び出す](content/pro-symbols/article.md)
+
+`vemoji`・`vkao`・`vkigou`。KeyroIME Proで使える3つの読みを紹介します。
+
+## 気に入ったら、また読みに来てください
+
+- **Star**：役に立ったら、ページ上部の「Star」で応援してください。
+- **Watch**：GitHubの「Watch」から、お好みの通知設定で更新をチェックできます。
+- **X**：[公式アカウント @KeyroIME](https://x.com/KeyroIME) で新しい記事や製品のお知らせをお届けします。
+- **感想・リクエスト**：[こちら](https://github.com/keyro-jp/keyro-academy/issues/new/choose)へ。投稿へのリアクションでも気軽に参加できます。
+
+各チャンネルの記事は順次追加していきます。
+
+---
+
+[KeyroIME公式サイト](https://keyro.jp)　·　[公式ダウンロード・更新履歴](https://github.com/keyro-jp/KeyroIME-Releases/releases)　·　[権利表記](COPYRIGHT.md)
+
+記事内の対応版・確認日をご覧ください。開発計画は、現在提供している機能と分けて紹介しています。

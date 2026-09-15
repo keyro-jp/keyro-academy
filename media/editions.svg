@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 440" role="img" aria-labelledby="title desc">
+  <title id="title">KeyroIMEの3つの版</title>
+  <desc id="desc">OpenCoreはオープンソース版、Proは商用版、AI Proは開発計画。2026年9月15日時点。</desc>
+  <rect width="1080" height="440" rx="24" fill="#f4f7fa"/>
+  <g font-family="Yu Gothic, Noto Sans JP, sans-serif" fill="#132b42">
+    <text x="44" y="64" font-size="20" font-weight="bold">Keyroアカデミー　／　機能ガイド</text>
+    <text x="44" y="119" font-size="34" font-weight="bold">いま使えること。これから目指すこと。</text>
+    <rect x="44" y="158" width="316" height="208" rx="16" fill="#e3edf7"/>
+    <rect x="382" y="158" width="316" height="208" rx="16" fill="#d9f1e7"/>
+    <rect x="720" y="158" width="316" height="208" rx="16" fill="#eee7fa"/>
+    <text x="68" y="207" font-size="29" font-weight="bold">OpenCore</text>
+    <text x="406" y="207" font-size="29" font-weight="bold">Pro</text>
+    <text x="744" y="207" font-size="29" font-weight="bold">AI Pro</text>
+    <text x="68" y="260" font-size="23">オープンソース版</text>
+    <text x="68" y="305" font-size="19">GPLv3 ／ 独立した製品</text>
+    <text x="406" y="260" font-size="23">商用版</text>
+    <text x="406" y="305" font-size="19">変換・単語登録・分類候補</text>
+    <text x="744" y="260" font-size="23">開発計画</text>
+    <text x="744" y="305" font-size="19">AI候補 ／ 一般提供は未確認</text>
+    <text x="44" y="410" font-size="17">2026年9月15日確認。配布状況はKeyroIME公式Releaseへ。</text>
+  </g>
+</svg>

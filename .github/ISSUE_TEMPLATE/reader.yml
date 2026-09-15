@@ -1,0 +1,21 @@
+name: 感想・質問・読みたいテーマ
+description: 記事の感想や、知りたいことを教えてください
+title: "[読者の声] "
+body:
+  - type: dropdown
+    id: channel
+    attributes:
+      label: チャンネル
+      options: [機能ガイド, 使い方, AI最前線, 仕事術, 学院全体]
+  - type: input
+    id: article
+    attributes:
+      label: 関連する記事
+      description: 記事のタイトルまたはURLを記入してください。
+  - type: textarea
+    id: message
+    attributes:
+      label: 感想・質問・読みたいテーマ
+      description: 公開されるため、個人情報や社内文書は記入しないでください。
+    validations:
+      required: true
