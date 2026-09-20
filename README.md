@@ -18,6 +18,13 @@ KeyroIMEと一緒に、「書く仕事」を軽くするヒントをお届けし
 
 ## まず読んでほしい記事
 
+### 💡 JIS・US配列で迷ったら
+
+- 東京の職場で「@が打てない」？：[日本語](content/jis-ansi-tokyo-ja/article.md) · [English](content/jis-ansi-tokyo-en/article.md) · [中文](content/jis-ansi-tokyo-zh/article.md)
+- [海外のPCで「半角／全角キーがない！」US配列の予習と日本語入力](content/us-keyboard-abroad-ja/article.md)
+
+記号の早見表と、KeyroIMEのJIS／ANSI切り替えを紹介します。
+
 ### ⌨️ [OpenCore・Pro・AI Proの違い](content/keyro-editions/article.md)
 
 いま使える機能と、これからの計画。KeyroIMEの3つの版を整理します。
