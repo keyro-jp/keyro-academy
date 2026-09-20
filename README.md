@@ -18,6 +18,16 @@ KeyroIMEと一緒に、「書く仕事」を軽くするヒントをお届けし
 
 ## まず読んでほしい記事
 
+### ⌨️ KeyroIMEの7つの入力機能
+
+- [数字キー1〜5で候補を直接確定](content/candidate-number-commit/article.md)
+- [日本語の途中に英数字を入力](content/mixed-japanese-ascii/article.md)
+- [半角の数字・記号を確認](content/halfwidth-symbol-input/article.md)
+- [JIS／ANSI配列を切り替え](content/jis-ansi-layout-switch/article.md)
+- [入力中の停止を減らすショートカット](content/shortcut-matrix/article.md)
+- [「v＋読み」で人名・地名・駅名を検索](content/v-prefix-name-place/article.md)
+- [「q＋語」で日英・英日の候補を検索](content/q-prefix-translation/article.md)
+
 ### 💡 JIS・US配列で迷ったら
 
 - 東京の職場で「@が打てない」？：[日本語](content/jis-ansi-tokyo-ja/article.md) · [English](content/jis-ansi-tokyo-en/article.md) · [中文](content/jis-ansi-tokyo-zh/article.md)
