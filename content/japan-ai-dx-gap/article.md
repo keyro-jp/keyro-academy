@@ -18,7 +18,7 @@
 
 a16zが引用した米国市場のカテゴリ別データでは、売上と利用時間の両方が大きく伸びた主要カテゴリは生産性でした。AIを付けたアプリが一様に成長したのではなく、仕事の流れに入る用途へ利用が集まっています。
 
-![米国アプリカテゴリ別の売上成長率と利用時間成長率。生産性カテゴリが右上に位置する](https://raw.githubusercontent.com/keyro-jp/keyro-academy/main/media/ai-trends-2026/2dd588caj00tltd1b002hd000qf014sg.jpg)
+![米国アプリカテゴリ別の売上成長率と利用時間成長率。生産性カテゴリが右上に位置する](https://raw.githubusercontent.com/keyro-jp/keyro-academy/main/media/2dd588caj00tltd1b002hd000qf014sg.jpg)
 
 *図：a16z掲載、Sensor Tower推計（2026年9月15日時点）。提供された原画像を使用。*
 
@@ -26,7 +26,7 @@ a16zが引用した米国市場のカテゴリ別データでは、売上と利�
 
 海外では、AIを独立した画面として追加するだけでなく、既存の連絡や端末操作へ組み込む試みも進んでいます。たとえばInstinctは、メール、メッセージ、画面、音声、位置情報などへ接続し、電話やテキストから依頼できる個人向けアシスタントを掲げています。
 
-![メールやメッセージ、画面、音声などに接続する個人向けAIアシスタントInstinctの説明画面](https://raw.githubusercontent.com/keyro-jp/keyro-academy/main/media/ai-trends-2026/d6d59d9fj00tltd1b001ed000u000ceg.jpg)
+![メールやメッセージ、画面、音声などに接続する個人向けAIアシスタントInstinctの説明画面](https://raw.githubusercontent.com/keyro-jp/keyro-academy/main/media/d6d59d9fj00tltd1b001ed000u000ceg.jpg)
 
 *図：Instinct公式サイトの説明画面。提供された原画像を使用。*
 

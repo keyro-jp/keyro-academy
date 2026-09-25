@@ -10,13 +10,13 @@ a16zが2026年9月に公開した分析では、iOS、Android、Chromeの月間�
 
 同じ分析が引用するSensor Towerの推計では、2024年12月を100とした米国アプリ市場の指数は、2026年8月時点で売上102、総利用時間107でした。約1年半で売上は約2％、利用時間は約7％の増加です。新しいアプリの供給速度と、市場全体の伸びには大きな差があります。
 
-![米国アプリ市場の売上と利用時間の推移。2024年12月を100として、2026年8月は売上102、利用時間107](https://raw.githubusercontent.com/keyro-jp/keyro-academy/main/media/ai-trends-2026/4bba374bj00tltd1b001ad000mc00kpg.jpg)
+![米国アプリ市場の売上と利用時間の推移。2024年12月を100として、2026年8月は売上102、利用時間107](https://raw.githubusercontent.com/keyro-jp/keyro-academy/main/media/4bba374bj00tltd1b001ad000mc00kpg.jpg)
 
 *図：a16z掲載、Sensor Tower推計（2026年9月16日時点）。提供された原画像を使用。*
 
 開発できる人が増えても、有料で使う人の数や、1日に使える時間は急には増えません。AI以前は開発能力が希少でした。AI以後は、作る能力より「誰の、どの問題を、継続して解決するか」が希少になります。
 
-![AI以前とAI以後で、個人開発者と有料ユーザーのバランスが変化する概念図](https://raw.githubusercontent.com/keyro-jp/keyro-academy/main/media/ai-trends-2026/ai_before_after_jp.png)
+![AI以前とAI以後で、個人開発者と有料ユーザーのバランスが変化する概念図](https://raw.githubusercontent.com/keyro-jp/keyro-academy/main/media/ai_before_after_jp.png)
 
 *図：供給と有料需要の関係を示す概念図。提供された原画像を使用。*
 
