@@ -18,7 +18,7 @@ KeyroIMEと一緒に、「書く仕事」を軽くするヒントをお届けし
 
 ## まず読んでほしい記事
 
-### ⌨️ KeyroIMEの7つの入力機能
+### ⌨️ KeyroIMEの入力機能
 
 - [数字キー1〜5で候補を直接確定](content/candidate-number-commit/article.md)
 - [日本語の途中に英数字を入力](content/mixed-japanese-ascii/article.md)
@@ -27,6 +27,7 @@ KeyroIMEと一緒に、「書く仕事」を軽くするヒントをお届けし
 - [入力中の停止を減らすショートカット](content/shortcut-matrix/article.md)
 - [「v＋読み」で人名・地名・駅名を検索](content/v-prefix-name-place/article.md)
 - [「q＋語」で日英・英日の候補を検索](content/q-prefix-translation/article.md)
+- [`vemoji`・`vkaomoji` で絵文字・顔文字を探す](content/pro-symbols/article.md)
 
 ### 💡 JIS・US配列で迷ったら
 
@@ -57,10 +58,6 @@ KeyroIMEと一緒に、「書く仕事」を軽くするヒントをお届けし
 ### 💡 [入力の時短は、同じ文章で測ってみる](content/input-workflow/article.md)
 
 「なんとなく速い」を、完成時間・切替・修正の記録で確かめる方法です。
-
-### ⌨️ [絵文字・顔文字・記号を、読みから呼び出す](content/pro-symbols/article.md)
-
-`vemoji`・`vkao`・`vkigou`。KeyroIME Proで使える3つの読みを紹介します。
 
 ## 気に入ったら、また読みに来てください
 
