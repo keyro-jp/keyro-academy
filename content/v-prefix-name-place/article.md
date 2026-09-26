@@ -20,6 +20,6 @@ v＋探したい名前や場所の読み
 
 **キーワード：** KeyroIME、Windows、IME、日本語入力、人名変換、地名変換、駅名、`v＋読み`
 
-[公式リリース](https://github.com/keyro-jp/KeyroIME-Releases/releases) ｜ [絵文字・顔文字の出し方](https://github.com/keyro-jp/keyro-academy/blob/main/content/pro-symbols/article.md)
+[公式リリース](https://github.com/keyro-jp/KeyroIME-Releases/releases) ｜ [絵文字・顔文字の出し方](https://github.com/keyro-jp/keyro-academy/blob/main/content/pro-symbols-guide/article.md)
 
 確認日：2026-09-27。OpenCore v1.0.6.16、Pro v1.0.6.17の資料・実装で確認しています。候補の順位は辞書や学習状態によって変わります。

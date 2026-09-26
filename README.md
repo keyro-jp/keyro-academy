@@ -27,7 +27,7 @@ KeyroIMEと一緒に、「書く仕事」を軽くするヒントをお届けし
 - [入力中の停止を減らすショートカット](content/shortcut-matrix/article.md)
 - [「v＋読み」で人名・地名・駅名を検索](content/v-prefix-name-place/article.md)
 - [「q＋語」で日英・英日の候補を検索](content/q-prefix-translation/article.md)
-- [`vemoji`・`vkaomoji` で絵文字・顔文字を探す](content/pro-symbols/article.md)
+- [`vemoji`・`vkaomoji` で絵文字・顔文字を探す](content/pro-symbols-guide/article.md)
 
 ### 💡 JIS・US配列で迷ったら
 

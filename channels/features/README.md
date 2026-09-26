@@ -13,7 +13,7 @@ KeyroIMEでできることを、具体例から。
 | [人名・地名が見つからない？「v＋読み」で探そう](../../content/v-prefix-name-place/article.md) | 人名・地名・駅名候補を優先する | 2026-09-27 |
 | [「q＋語」で日英・英日の訳語を探す](../../content/q-prefix-translation/article.md) | 入力中に辞書の訳語候補を探す | 2026-09-27 |
 | [OpenCore・Pro・AI Proの違い](../../content/keyro-editions/article.md) | 3つの版の役割、提供中の機能と開発計画 | 2026-09-15 |
-| [絵文字と顔文字、どう出す？ vemoji と vkaomoji の使い方](../../content/pro-symbols/article.md) | 絵文字・顔文字の一覧を開く | 2026-09-27 |
+| [絵文字と顔文字、どう出す？ vemoji と vkaomoji の使い方](../../content/pro-symbols-guide/article.md) | 絵文字・顔文字の一覧を開く | 2026-09-27 |
 
 記事は順次追加します。役に立ったら学院の「Star」で応援してください。
 
