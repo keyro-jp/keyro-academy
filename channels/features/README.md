@@ -14,6 +14,7 @@ KeyroIMEでできることを、具体例から。
 | [「q＋語」で日英・英日の訳語を探す](../../content/q-prefix-translation/article.md) | 入力中に辞書の訳語候補を探す | 2026-09-27 |
 | [OpenCore・Pro・AI Proの違い](../../content/keyro-editions/article.md) | 3つの版の役割、提供中の機能と開発計画 | 2026-09-15 |
 | [絵文字と顔文字、どう出す？ vemoji と vkaomoji の使い方](../../content/pro-symbols-guide/article.md) | 絵文字・顔文字の一覧を開く | 2026-09-27 |
+| [なぜ日本の名字は「10万種類以上」といわれるのか？](../../content/japanese-surname-input/article.md) | 名字の多様性と `v＋かな` の入力方法 | 2026-09-27 |
 
 記事は順次追加します。役に立ったら学院の「Star」で応援してください。
 
