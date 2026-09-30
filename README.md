@@ -41,6 +41,10 @@ KeyroIMEと一緒に、「書く仕事」を軽くするヒントをお届けし
 
 いま使える機能と、これからの計画。KeyroIMEの3つの版を整理します。
 
+### 🧑‍💻 [KeyroIME OpenCore、正式オープンソース化](content/opencore-now-open-source/article.md)
+
+C++17のWindows TSFとRustのローカルサービス。その設計とコードを公開しました。
+
 ### 📖 [単語登録で、いつもの言葉をすぐに](content/pro-wordbook/article.md)
 
 よく使う製品名や表記を、読みから呼び出す。最初は3語から始めましょう。
