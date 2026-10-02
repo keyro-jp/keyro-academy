@@ -45,6 +45,10 @@ KeyroIMEと一緒に、「書く仕事」を軽くするヒントをお届けし
 
 C++17のWindows TSFとRustのローカルサービス。その設計とコードを公開しました。
 
+### 🧑‍💻 [Windows IMEを止めないための、C++とRustの分離設計](content/opencore-ipc-fallback/article.md)
+
+名前付きパイプの小さなプロトコルと、辞書サービス停止時のローカルフォールバックを公開コードから解説します。
+
 ### ✨ [KeyroIME Pro v1.1.0公開](content/keyroime-pro-v1-1-0/article.md)
 
 約4,900語の辞書追加、英単語の表記保持、候補ページ操作、ユーザー辞書の信頼性を改善しました。
