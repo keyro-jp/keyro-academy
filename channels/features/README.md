@@ -18,6 +18,7 @@ KeyroIMEでできることを、具体例から。
 | [日本語入力の「黒箱」を開けます。KeyroIME OpenCore、正式オープンソース化](../../content/opencore-now-open-source/article.md) | C++17、Rust、Windows TSFで作る公開IME | 2026-10-01 |
 | [KeyroIME Pro v1.1.0公開。日本語入力の「あと少し」を、きちんと埋めました](../../content/keyroime-pro-v1-1-0/article.md) | 辞書・英単語・候補操作・保存の改善 | 2026-10-02 |
 | [Windows IMEを止めないために。C++のTSFとRustの辞書サービスを分ける設計](../../content/opencore-ipc-fallback/article.md) | IPCの境界とサービス停止時の入力継続 | 2026-10-03 |
+| [もし公開コードにAPIキーを置き忘れたら、AIに1,000万トークン食われる？](../../content/api-key-ten-million-tokens/article.md) | 架空の事例でAPIキーとトークン、公開前の確認を説明 | 2026-10-03 |
 
 記事は順次追加します。役に立ったら学院の「Star」で応援してください。
 
