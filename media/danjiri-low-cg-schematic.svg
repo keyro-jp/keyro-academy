@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="520" viewBox="0 0 960 520" role="img" aria-labelledby="title desc">
+  <title id="title">だんじり風車体の低重心化：正面模式図</title>
+  <desc id="desc">左右の接地点間隔bと重心高さhを示し、重心を下げた場合の転倒モーメントの腕の短縮を説明する概念図。実物の寸法ではない。</desc>
+  <rect width="960" height="520" fill="#f8fafc"/>
+  <text x="52" y="54" fill="#19324d" font-size="25" font-family="sans-serif" font-weight="700">低重心化の考え方｜正面模式図</text>
+  <text x="52" y="82" fill="#64748b" font-size="15" font-family="sans-serif">実寸・施工図ではありません。人の位置、路面、車輪の動きは省略。</text>
+  <line x1="95" y1="410" x2="865" y2="410" stroke="#64748b" stroke-width="3"/>
+  <rect x="265" y="132" width="430" height="247" rx="12" fill="#eacb98" stroke="#895d30" stroke-width="5"/>
+  <path d="M250 132 L315 94 L645 94 L710 132 Z" fill="#ae7842" stroke="#895d30" stroke-width="5"/>
+  <rect x="255" y="348" width="450" height="44" rx="8" fill="#735539"/>
+  <circle cx="322" cy="397" r="21" fill="#44392e"/>
+  <circle cx="638" cy="397" r="21" fill="#44392e"/>
+  <circle cx="480" cy="220" r="11" fill="#2563eb"/>
+  <circle cx="480" cy="289" r="11" fill="#0f9f6a"/>
+  <line x1="480" y1="220" x2="480" y2="410" stroke="#2563eb" stroke-width="2" stroke-dasharray="7 6"/>
+  <line x1="497" y1="289" x2="497" y2="410" stroke="#0f9f6a" stroke-width="2" stroke-dasharray="7 6"/>
+  <line x1="480" y1="220" x2="600" y2="220" stroke="#e45353" stroke-width="5" marker-end="url(#arrow)"/>
+  <text x="603" y="212" fill="#ab3232" font-size="17" font-family="sans-serif">曲がるときの横向きの力</text>
+  <text x="93" y="230" fill="#2563eb" font-size="18" font-family="sans-serif">● 高い重心 h₁</text>
+  <text x="93" y="298" fill="#0f9f6a" font-size="18" font-family="sans-serif">● 低い重心 h₂</text>
+  <line x1="322" y1="452" x2="638" y2="452" stroke="#19324d" stroke-width="2" marker-start="url(#arrowBack)" marker-end="url(#arrow)"/>
+  <text x="474" y="479" fill="#19324d" font-size="20" font-family="sans-serif" text-anchor="middle">接地点の幅 b</text>
+  <text x="745" y="375" fill="#19324d" font-size="16" font-family="sans-serif">転倒軸 →</text>
+  <circle cx="638" cy="397" r="7" fill="#e45353"/>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0 0 L12 6 L0 12 Z" fill="context-stroke"/></marker>
+    <marker id="arrowBack" markerWidth="12" markerHeight="12" refX="2" refY="6" orient="auto"><path d="M12 0 L0 6 L12 12 Z" fill="context-stroke"/></marker>
+  </defs>
+</svg>

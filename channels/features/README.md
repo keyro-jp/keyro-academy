@@ -20,6 +20,7 @@ KeyroIMEでできることを、具体例から。
 | [Windows IMEを止めないために。C++のTSFとRustの辞書サービスを分ける設計](../../content/opencore-ipc-fallback/article.md) | IPCの境界とサービス停止時の入力継続 | 2026-10-03 |
 | [もし公開コードにAPIキーを置き忘れたら、AIに1,000万トークン食われる？](../../content/api-key-ten-million-tokens/article.md) | 架空の事例でAPIキーとトークン、公開前の確認を説明 | 2026-10-03 |
 | [BYDが日本の「軽」に来た。次に見直すべき「当たり前」は、入力かもしれない](../../content/byd-racco-ime-innovation/article.md) | 軽EVの新しい選択肢から、入力体験の見直しを考える | 2026-10-12 |
+| [だんじりは「速く」できるのか？AIで低重心化を考え、先にブレーキをかけた理由](../../content/danjiri-ai-low-center-of-gravity/article.md) | だんじり事故を受けた低重心化の思考実験。数式と限界を整理 | 2026-10-13 |
 
 記事は順次追加します。役に立ったら学院の「Star」で応援してください。
 
