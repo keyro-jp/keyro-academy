@@ -11,6 +11,7 @@
 | [海外のPCで「半角／全角キーがない！」US配列の予習と日本語入力](../../content/us-keyboard-abroad-ja/article.md) | 日本語：留学・海外勤務前に試せる入力練習 | 2026-09-20 |
 | [入力の時短は、同じ文章で測ってみる](../../content/input-workflow/article.md) | 同じ条件で比べ、自分に合う入力環境を見つける | 2026-09-15 |
 | [AIで仕事は速くなった。なのに「入力」だけ、まだ渋滞していない？](../../content/ford-ai-input-bottleneck/article.md) | フォードの組立ラインとAIから考える、入力の小さな停止 | 2026-10-12 |
+| [【残業ゼロへのヒント】Google最新AI「Gemini 4」で仕事は速くなる？](../../content/gemini-4-argon-input-bottleneck/article.md) | Gemini 4 Argonと、AI時代の日本語入力を見直す | 2026-10-14 |
 
 自分の仕事で試した工夫も、[感想・質問](https://github.com/keyro-jp/keyro-academy/issues/new/choose)で教えてください。
 

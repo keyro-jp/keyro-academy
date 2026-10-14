@@ -80,6 +80,10 @@ C++17のWindows TSFとRustのローカルサービス。その設計とコード
 
 フォードの組立ラインからAI時代の仕事へ。入力の小さな停止を見直します。
 
+### 💡 [【残業ゼロへのヒント】Google最新AI「Gemini 4」で仕事は速くなる？](content/gemini-4-argon-input-bottleneck/article.md)
+
+Gemini 4 Argonの新機能と、AI時代の日本語入力。提供中と準備中の機能を分けて紹介します。
+
 ### ⌨️ [BYDが日本の「軽」に来た。次に見直すべき「当たり前」は、入力かもしれない](content/byd-racco-ime-innovation/article.md)
 
 軽EVが投げかける選択肢の話から、日本語入力の使い勝手を考えます。
