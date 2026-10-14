@@ -17,6 +17,7 @@ KeyroIMEでできることを、具体例から。
 | [なぜ日本の名字は「10万種類以上」といわれるのか？](../../content/japanese-surname-input/article.md) | 名字の多様性と `v＋かな` の入力方法 | 2026-09-27 |
 | [日本語入力の「黒箱」を開けます。KeyroIME OpenCore、正式オープンソース化](../../content/opencore-now-open-source/article.md) | C++17、Rust、Windows TSFで作る公開IME | 2026-10-01 |
 | [KeyroIME Pro v1.1.0公開。日本語入力の「あと少し」を、きちんと埋めました](../../content/keyroime-pro-v1-1-0/article.md) | 辞書・英単語・候補操作・保存の改善 | 2026-10-02 |
+| [「入れたのに動かない」を減らしたい。KeyroIME Pro v1.1.1、無料公開](../../content/keyroime-pro-v1-1-1/article.md) | オフラインVC++ランタイム同梱とMicrosoft Store更新提出 | 2026-10-14 |
 | [Windows IMEを止めないために。C++のTSFとRustの辞書サービスを分ける設計](../../content/opencore-ipc-fallback/article.md) | IPCの境界とサービス停止時の入力継続 | 2026-10-03 |
 | [もし公開コードにAPIキーを置き忘れたら、AIに1,000万トークン食われる？](../../content/api-key-ten-million-tokens/article.md) | 架空の事例でAPIキーとトークン、公開前の確認を説明 | 2026-10-03 |
 | [BYDが日本の「軽」に来た。次に見直すべき「当たり前」は、入力かもしれない](../../content/byd-racco-ime-innovation/article.md) | 軽EVの新しい選択肢から、入力体験の見直しを考える | 2026-10-12 |
