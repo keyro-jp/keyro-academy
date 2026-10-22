@@ -71,6 +71,7 @@ C++17のWindows TSFとRustのローカルサービス。その設計とコード
 
 ### 🔬 AIの普及と、使われる価値
 
+- [高市首相も注意喚起。AIが見つけたPHPの重大脆弱性](content/php-ai-security-japan-2026/article.md)
 - [AIでアプリは増えた。それでも市場が広がるとは限らない](content/ai-app-supply-demand/article.md)
 - [生成AI利用率58.8％の日本。次に必要なのは「使ったこと」から業務変革へ進むこと](content/japan-ai-dx-gap/article.md)
 
