@@ -5,6 +5,7 @@
 
 | 記事 | 内容 | 更新日 |
 | --- | --- | --- |
+| [AIを止めたら、私たちの暮らしはどうなる？](../../content/ai-changes-daily-life-2026/article.md) | 米国株急落をきっかけに、AIの便利さと備えを考える | 2026-11-06 |
 | [20分で約63億ドルが流出——Binance事件から考える、AI時代のセキュリティ](../../content/binance-hack-security-survival/article.md) | 2026年の事件で確認された事実と調査中の点、端末・権限・AI活用の実践策 | 2026-11-01 |
 | [高市首相も注意喚起したPHPの重大脆弱性](../../content/php-ai-security-japan-2026/article.md) | AIによる発見、PHPの修正版、日本の利用者・運営者が取る行動 | 2026-10-22 |
 | [AIでアプリは増えた。それでも市場が広がるとは限らない](../../content/ai-app-supply-demand/article.md) | App-Slop、売上・利用時間、継続率から見る「作る」と「使われる」の差 | 2026-09-25 |

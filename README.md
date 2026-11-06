@@ -69,6 +69,10 @@ C++17のWindows TSFとRustのローカルサービス。その設計とコード
 
 日本語の品質、待ち時間、メモリー。モデル名だけでは分からない確認ポイント。
 
+### 🔬 [AIを止めたら、私たちの暮らしはどうなる？](content/ai-changes-daily-life-2026/article.md)
+
+米国株急落をきっかけに、AIが変えた暮らしと、安心して使うための備えを考えます。
+
 ### 🔬 AIの普及と、使われる価値
 
 - [20分で約63億ドルが流出——Binance事件から考える、AI時代のセキュリティ](content/binance-hack-security-survival/article.md)
