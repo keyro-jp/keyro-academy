@@ -69,6 +69,10 @@ C++17のWindows TSFとRustのローカルサービス。その設計とコード
 
 日本語の品質、待ち時間、メモリー。モデル名だけでは分からない確認ポイント。
 
+### 🔬 [Claudeと数学者が挑んだ167年の難問｜リーマン予想とAIの転換点](content/claude-riemann-lean/article.md)
+
+素数にまつわる大問題を、Claudeとの協力とLeanによる検証から読み解きます。
+
 ### 🔬 [AIを止めたら、私たちの暮らしはどうなる？](content/ai-changes-daily-life-2026/article.md)
 
 米国株急落をきっかけに、AIが変えた暮らしと、安心して使うための備えを考えます。
